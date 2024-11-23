@@ -1,0 +1,1 @@
+import{_ as a,r as o,o as n,c as s}from"./app-oi9O8E9X.js";const t={name:"human-base"};function r(c,m,p,_,u,d){const e=o("page-base");return n(),s(e,{"module-name":"human","module-key":"human","module-type":"administrator"})}const f=a(t,[["render",r]]);export{f as default};

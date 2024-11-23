@@ -1,0 +1,1 @@
+import{_ as n,r as s,o as t,c as a}from"./app-oi9O8E9X.js";const c={name:"system-license"};function o(r,p,i,_,m,l){const e=s("page-crud");return t(),a(e,{"page-name":"system-license","page-key":"license","parent-name":"system-ability","parent-key":"ability"})}const y=n(c,[["render",o]]);export{y as default};

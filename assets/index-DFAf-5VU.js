@@ -1,0 +1,1 @@
+import{_ as o,r as a,o as r,c}from"./app-oi9O8E9X.js";const n={name:"coperative-yearbook"};function t(p,s,_,d,i,m){const e=a("page-crud");return r(),c(e,{"page-name":"coperative-yearbook","page-key":"yearbook"})}const k=o(n,[["render",t]]);export{k as default};

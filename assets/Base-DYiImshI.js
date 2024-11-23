@@ -1,0 +1,1 @@
+import{_ as o,r as a,o as s,c as t}from"./app-oi9O8E9X.js";const c={name:"mycoperative-base"};function n(r,p,m,_,l,d){const e=a("page-base");return s(),t(e,{"module-name":"mycoperative","module-key":"mycoperative","module-type":"personal"})}const u=o(c,[["render",n]]);export{u as default};

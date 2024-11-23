@@ -1,0 +1,1 @@
+import{_ as t,r as o,o as r,c,y as s}from"./app-oi9O8E9X.js";const a={name:"system-user-create"};function n(_,p,f,m,l,u){const e=o("form-create");return r(),c(e,null,{default:s(()=>[]),_:1})}const i=t(a,[["render",n]]);export{i as default};

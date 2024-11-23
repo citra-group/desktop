@@ -1,0 +1,1 @@
+import{_ as a,r as e,o as n,c as r,y as o}from"./app-oi9O8E9X.js";const s={name:"human-supplier-data"};function c(p,_,f,m,d,i){const t=e("form-data");return n(),r(t,null,{forminfo:o(()=>[]),helpdesk:o(()=>[]),utility:o(()=>[]),_:1})}const u=a(s,[["render",c]]);export{u as default};

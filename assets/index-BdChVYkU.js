@@ -1,0 +1,1 @@
+import{_ as a,r,o as n,c as o}from"./app-oi9O8E9X.js";const c={name:"reference-marital"};function t(s,p,_,m,f,i){const e=r("page-crud");return n(),o(e,{"page-name":"reference-marital","page-key":"marital"})}const l=a(c,[["render",t]]);export{l as default};

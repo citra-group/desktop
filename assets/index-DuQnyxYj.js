@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as a,c}from"./app-oi9O8E9X.js";const r={name:"human-fellow"};function t(s,p,_,l,f,m){const e=n("page-crud");return a(),c(e,{"page-name":"human-fellow","page-key":"fellow"})}const d=o(r,[["render",t]]);export{d as default};

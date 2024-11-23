@@ -1,0 +1,1 @@
+import{_ as n,r as a,o,c as t}from"./app-oi9O8E9X.js";const c={name:"coperative-paymentkind"};function p(r,s,_,d,i,m){const e=a("page-crud");return o(),t(e,{"page-name":"coperative-paymentkind","page-key":"paymentkind"})}const k=n(c,[["render",p]]);export{k as default};

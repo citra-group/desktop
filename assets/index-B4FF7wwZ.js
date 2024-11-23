@@ -1,0 +1,1 @@
+import{_ as o,r as a,o as s,c as t,y as n}from"./app-oi9O8E9X.js";const r={name:"system-dashboard"};function c(p,_,m,d,f,h){const e=a("page-home");return s(),t(e,{"page-name":"system-dashboard"},{default:n(()=>[]),_:1})}const l=o(r,[["render",c]]);export{l as default};

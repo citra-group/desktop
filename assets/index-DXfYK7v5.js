@@ -1,0 +1,1 @@
+import{_ as o,r,o as t,c as a}from"./app-oi9O8E9X.js";const s={name:"system-operator"};function n(c,p,_,m,d,f){const e=r("page-crud");return t(),a(e,{"page-name":"system-operator","page-key":"operator"})}const i=o(s,[["render",n]]);export{i as default};

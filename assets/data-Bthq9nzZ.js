@@ -1,0 +1,1 @@
+import{_ as o,r as e,o as r,c as n,y as t}from"./app-oi9O8E9X.js";const c={name:"mycoperative-withdrawal-data"};function s(_,f,p,d,i,m){const a=e("form-data");return r(),n(a,null,{feed:t(()=>[]),info:t(()=>[]),filter:t(()=>[]),_:1})}const u=o(c,[["render",s]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as o,r as a,o as n,c as r,y as e}from"./app-oi9O8E9X.js";const c={name:"reference-faith-data"};function s(f,_,p,d,i,m){const t=a("form-data");return n(),r(t,null,{feed:e(()=>[]),info:e(()=>[]),filter:e(()=>[]),_:1})}const u=o(c,[["render",s]]);export{u as default};

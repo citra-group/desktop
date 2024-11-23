@@ -1,0 +1,1 @@
+import{_ as n,r as o,o as r,c}from"./app-oi9O8E9X.js";const a={name:"reference-province"};function p(t,s,_,f,i,d){const e=o("page-crud");return r(),c(e,{"page-name":"reference-province","page-key":"province"})}const u=n(a,[["render",p]]);export{u as default};

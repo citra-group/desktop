@@ -1,0 +1,1 @@
+import{_ as n,r,o,c}from"./app-oi9O8E9X.js";const a={name:"reference-gender"};function t(s,p,_,d,f,g){const e=r("page-crud");return o(),c(e,{"page-name":"reference-gender","page-key":"gender"})}const u=n(a,[["render",t]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as t,r as a,o,c as n}from"./app-oi9O8E9X.js";const s={name:"system-ability"};function r(c,p,m,_,i,d){const e=a("page-crud");return o(),n(e,{"page-name":"system-ability","page-key":"ability","parent-name":"system-module","parent-key":"module"})}const u=t(s,[["render",r]]);export{u as default};

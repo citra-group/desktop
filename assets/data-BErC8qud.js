@@ -1,0 +1,1 @@
+import{_ as a,r as e,o as n,c as r,y as t}from"./app-oi9O8E9X.js";const s={name:"system-auditor-data"};function c(_,f,d,p,m,i){const o=e("form-data");return n(),r(o,null,{feed:t(()=>[]),info:t(()=>[]),filter:t(()=>[]),_:1})}const u=a(s,[["render",c]]);export{u as default};

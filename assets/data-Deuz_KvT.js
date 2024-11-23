@@ -1,0 +1,1 @@
+import{_ as t,r as a,o as r,c as n,y as o}from"./app-oi9O8E9X.js";const c={name:"coperative-yearbook-data"};function s(_,f,p,d,i,m){const e=a("form-data");return r(),n(e,null,{feed:o(()=>[]),info:o(()=>[]),filter:o(()=>[]),_:1})}const u=t(c,[["render",s]]);export{u as default};

@@ -1,0 +1,1 @@
+import{_ as t,r as a,o as n,c as r,y as e}from"./app-oi9O8E9X.js";const s={name:"reference-profession-data"};function c(f,_,p,d,i,m){const o=a("form-data");return n(),r(o,null,{feed:e(()=>[]),info:e(()=>[]),filter:e(()=>[]),_:1})}const u=t(s,[["render",c]]);export{u as default};

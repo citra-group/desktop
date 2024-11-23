@@ -1,0 +1,1 @@
+import{_ as a,r as e,o as n,c as r,y as t}from"./app-oi9O8E9X.js";const s={name:"human-customertype-data"};function c(_,p,m,f,d,i){const o=e("form-data");return n(),r(o,null,{forminfo:t(()=>[]),helpdesk:t(()=>[]),utility:t(()=>[]),_:1})}const u=a(s,[["render",c]]);export{u as default};
