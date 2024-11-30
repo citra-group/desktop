@@ -1,1 +1,0 @@
-import{_ as n,r as o,o as c,c as a}from"./app-oi9O8E9X.js";const r={name:"human-customerkind"};function t(s,p,m,_,u,d){const e=o("page-crud");return c(),a(e,{"page-name":"human-customerkind","page-key":"customerkind"})}const f=n(r,[["render",t]]);export{f as default};

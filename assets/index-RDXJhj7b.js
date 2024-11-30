@@ -1,1 +1,0 @@
-import{_ as a,r as n,o,c as r}from"./app-oi9O8E9X.js";const c={name:"reference-family"};function t(s,p,_,f,m,i){const e=n("page-crud");return o(),r(e,{"page-name":"reference-family","page-key":"family"})}const l=a(c,[["render",t]]);export{l as default};

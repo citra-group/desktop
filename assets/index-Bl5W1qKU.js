@@ -1,1 +1,0 @@
-import{_ as o,r as a,o as n,c}from"./app-oi9O8E9X.js";const r={name:"mycoperative-loan"};function t(p,s,_,m,d,i){const e=a("page-crud");return n(),c(e,{"page-name":"mycoperative-loan","page-key":"loan"})}const f=o(r,[["render",t]]);export{f as default};

@@ -1,1 +1,0 @@
-import{_ as s,r as n,o,c as a}from"./app-oi9O8E9X.js";const p={name:"system-permission"};function r(t,c,m,_,i,d){const e=n("page-crud");return o(),a(e,{"page-name":"system-permission","page-key":"permission","parent-name":"system-page","parent-key":"page"})}const g=s(p,[["render",r]]);export{g as default};

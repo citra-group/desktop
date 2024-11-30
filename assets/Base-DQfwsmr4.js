@@ -1,1 +1,0 @@
-import{_ as o,r as a,o as s,c as r}from"./app-oi9O8E9X.js";const t={name:"reservation-base"};function n(c,p,_,m,i,d){const e=a("page-base");return s(),r(e,{"module-name":"reservation","module-key":"reservation","module-type":"administrator"})}const u=o(t,[["render",n]]);export{u as default};

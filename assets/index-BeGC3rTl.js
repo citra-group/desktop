@@ -1,1 +1,0 @@
-import{_ as o,r,o as s,c as n}from"./app-oi9O8E9X.js";const t={name:"system-role"};function a(c,p,_,m,d,l){const e=r("page-crud");return s(),n(e,{"page-name":"system-role","page-key":"role"})}const u=o(t,[["render",a]]);export{u as default};

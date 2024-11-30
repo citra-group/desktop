@@ -1,0 +1,1 @@
+import{_ as e,b as a,C as o,d as r,o as s}from"./App-DUAqxygC.js";const p={name:"mycoperative-payment-data"};function f(d,t,m,i,l,_){const n=r("form-data");return s(),a(n,null,{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const x=e(p,[["render",f]]);export{x as default};

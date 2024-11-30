@@ -1,1 +1,0 @@
-import{_ as t,r as a,o as n,c}from"./app-oi9O8E9X.js";const e={name:"account-notification-data"};function r(s,_,p,f,d,m){const o=a("form-data");return n(),c(o)}const u=t(e,[["render",r]]);export{u as default};

@@ -1,1 +1,0 @@
-import{_ as o,r as a,o as t,c as s}from"./app-oi9O8E9X.js";const r={name:"coperative-base"};function c(n,p,_,m,i,d){const e=a("page-base");return t(),s(e,{"module-name":"coperative","module-key":"coperative","module-type":"administrator"})}const u=o(r,[["render",c]]);export{u as default};

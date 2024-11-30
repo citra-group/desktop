@@ -1,1 +1,0 @@
-import{_ as s,r as o,o as t,c as a}from"./app-oi9O8E9X.js";const n={name:"system-base"};function r(c,m,p,_,d,l){const e=o("page-base");return t(),a(e,{"module-name":"system","module-key":"system","module-type":"administrator"})}const f=s(n,[["render",r]]);export{f as default};

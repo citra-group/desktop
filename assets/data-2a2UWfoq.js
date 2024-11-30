@@ -1,1 +1,0 @@
-import{_ as r,b as s,C as o,d as a,o as e}from"./App-Cj1p0Id9.js";const d={name:"infrastructure-document-data"};function f(p,t,m,i,u,l){const n=a("form-data");return e(),s(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=r(d,[["render",f]]);export{c as default};

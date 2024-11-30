@@ -1,0 +1,1 @@
+import{_ as r,b as n,C as o,d as a,o as e}from"./App-DUAqxygC.js";const p={name:"infrastructure-asset-data"};function f(d,t,i,m,u,l){const s=a("form-data");return e(),n(s,{chip:"slug"},{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=r(p,[["render",f]]);export{c as default};

@@ -1,1 +1,0 @@
-import{_ as a,r as e,o as n,c as s,y as o}from"./app-oi9O8E9X.js";const r={name:"human-customersubkind-data"};function c(_,m,p,d,f,i){const t=e("form-data");return n(),s(t,null,{forminfo:o(()=>[]),helpdesk:o(()=>[]),utility:o(()=>[]),_:1})}const l=a(r,[["render",c]]);export{l as default};

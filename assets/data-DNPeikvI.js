@@ -1,1 +1,0 @@
-import{_ as o,r as a,o as n,c as r,y as e}from"./app-oi9O8E9X.js";const s={name:"system-module-crete"};function c(_,p,f,m,d,i){const t=a("form-data");return n(),r(t,{chip:"parent_name"},{feed:e(()=>[]),info:e(()=>[]),filter:e(()=>[]),_:1})}const u=o(s,[["render",c]]);export{u as default};

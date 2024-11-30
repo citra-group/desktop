@@ -1,1 +1,0 @@
-import{_ as n,r as o,o as a,c as r}from"./app-oi9O8E9X.js";const s={name:"human-customersubkind"};function t(c,u,m,p,d,_){const e=o("page-crud");return a(),r(e,{"page-name":"human-customersubkind","page-key":"customersubkind","parent-name":"human-customerkind","parent-key":"customerkind"})}const k=n(s,[["render",t]]);export{k as default};

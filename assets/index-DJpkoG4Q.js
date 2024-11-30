@@ -1,1 +1,0 @@
-import{_ as a,r as o,o as n,c as t,y as s}from"./app-oi9O8E9X.js";const r={name:"human-dashboard"};function c(p,_,m,d,h,f){const e=o("page-home");return n(),t(e,{"page-name":"human-dashboard"},{default:s(()=>[]),_:1})}const i=a(r,[["render",c]]);export{i as default};

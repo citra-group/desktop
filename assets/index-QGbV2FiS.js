@@ -1,1 +1,0 @@
-import{_ as o,r as s,o as n,c as t}from"./app-oi9O8E9X.js";const a={name:"system-module"};function c(r,p,m,_,d,u){const e=s("page-crud");return n(),t(e,{"page-name":"system-module","page-key":"module"})}const f=o(a,[["render",c]]);export{f as default};

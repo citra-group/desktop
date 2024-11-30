@@ -1,1 +1,0 @@
-import{_ as r,r as o,o as n,c as a}from"./app-oi9O8E9X.js";const t={name:"reference-report"};function c(p,s,_,f,m,l){const e=o("page-blank");return n(),a(e,{"page-name":"reference-report","page-key":"report"})}const i=r(t,[["render",c]]);export{i as default};
