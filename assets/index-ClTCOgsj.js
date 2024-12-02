@@ -1,1 +1,0 @@
-import{_ as o,c as n,r as a,o as c}from"./app-Cu0JO2ZK.js";const p={name:"human-employee"};function r(t,s,m,_,u,d){const e=a("page-crud");return c(),n(e,{"page-name":"human-employee","page-key":"employee"})}const f=o(p,[["render",r]]);export{f as default};

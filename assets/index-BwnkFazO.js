@@ -1,1 +1,0 @@
-import{_ as a,c as o,r,o as t}from"./app-Cu0JO2ZK.js";const c={name:"mycoperative-withdrawal"};function n(p,s,_,d,i,m){const e=r("page-crud");return t(),o(e,{"page-name":"mycoperative-withdrawal","page-key":"withdrawal"})}const f=a(c,[["render",n]]);export{f as default};

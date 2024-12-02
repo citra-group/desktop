@@ -1,1 +1,0 @@
-import{_ as r,c as s,y as o,r as n,o as a}from"./app-Cu0JO2ZK.js";const f={name:"system-role-crete"};function m(p,t,d,i,l,_){const e=n("form-data");return a(),s(e,{subtitle:"username"},{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const c=r(f,[["render",m]]);export{c as default};
