@@ -1,0 +1,1 @@
+import{_ as n,c as o,r as p,o as a}from"./app-CWyR-8jz.js";const r={name:"human-supplier"};function s(c,t,_,u,m,i){const e=p("page-crud");return a(),o(e,{"page-name":"human-supplier","page-key":"supplier"})}const l=n(r,[["render",s]]);export{l as default};

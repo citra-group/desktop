@@ -1,0 +1,1 @@
+import{_ as a,c as r,r as n,o}from"./app-CWyR-8jz.js";const c={name:"reference-marital"};function t(s,p,_,m,f,i){const e=n("page-crud");return o(),r(e,{"page-name":"reference-marital","page-key":"marital"})}const l=a(c,[["render",t]]);export{l as default};

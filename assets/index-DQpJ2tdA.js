@@ -1,0 +1,1 @@
+import{_ as n,c as o,r as c,o as t}from"./app-CWyR-8jz.js";const a={name:"reference-notification"};function r(s,i,p,_,f,d){const e=c("page-crud");return t(),o(e,{"page-name":"reference-notification","page-key":"notification"})}const u=n(a,[["render",r]]);export{u as default};

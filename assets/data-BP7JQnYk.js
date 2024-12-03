@@ -1,1 +1,0 @@
-import{_ as n,c as r,y as o,r as s,o as e}from"./app-D1A9xJXf.js";const p={name:"mycoperative-loan-data"};function f(d,t,i,m,_,l){const a=s("form-data");return e(),r(a,{chip:"status"},{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const u=n(p,[["render",f]]);export{u as default};
