@@ -1,1 +1,0 @@
-import{_ as o,c as r,r as a,o as c}from"./app-D7ys9-f5.js";const n={name:"coperative-member"};function t(p,s,m,_,d,i){const e=a("page-crud");return c(),r(e,{"page-name":"coperative-member","page-key":"member"})}const u=o(n,[["render",t]]);export{u as default};

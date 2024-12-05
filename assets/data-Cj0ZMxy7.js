@@ -1,1 +1,0 @@
-import{_ as n,c as r,y as o,r as a,o as s}from"./app-D7ys9-f5.js";const f={name:"reference-faith-data"};function p(d,t,i,m,l,_){const e=a("form-data");return s(),r(e,null,{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const c=n(f,[["render",p]]);export{c as default};
