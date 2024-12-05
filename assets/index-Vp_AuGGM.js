@@ -1,0 +1,1 @@
+import{_ as o,c,r as n,o as a}from"./app-D7ys9-f5.js";const r={name:"mycoperative-invoice"};function t(p,s,i,_,m,d){const e=n("page-crud");return a(),c(e,{"page-name":"mycoperative-invoice","page-key":"invoice"})}const u=o(r,[["render",t]]);export{u as default};

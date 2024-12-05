@@ -1,0 +1,1 @@
+import{_ as s,c as r,y as t,r as a,o as e}from"./app-D7ys9-f5.js";const p={name:"human-customerkind-data"};function m(d,o,f,i,u,l){const n=a("form-data");return e(),r(n,{chip:"slug"},{forminfo:t(()=>o[0]||(o[0]=[])),helpdesk:t(()=>o[1]||(o[1]=[])),utility:t(()=>o[2]||(o[2]=[])),_:1})}const c=s(p,[["render",m]]);export{c as default};
