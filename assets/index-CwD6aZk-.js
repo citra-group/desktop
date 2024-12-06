@@ -1,1 +1,0 @@
-import{_ as o,c as n,r,o as s}from"./app-C7F4kmd3.js";const c={name:"reference-profession"};function a(p,t,_,f,i,d){const e=r("page-crud");return s(),n(e,{"page-name":"reference-profession","page-key":"profession"})}const u=o(c,[["render",a]]);export{u as default};

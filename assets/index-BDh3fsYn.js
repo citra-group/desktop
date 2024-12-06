@@ -1,0 +1,1 @@
+import{_ as n,c as r,r as c,o}from"./app-ClLjlzvu.js";const a={name:"reference-regency"};function p(t,s,_,f,m,d){const e=c("page-crud");return o(),r(e,{"page-name":"reference-regency","page-key":"regency","parent-name":"reference-province","parent-key":"province"})}const i=n(a,[["render",p]]);export{i as default};
