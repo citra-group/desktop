@@ -1,1 +1,0 @@
-import{_ as s,c as r,y as o,r as n,o as a}from"./app-ClLjlzvu.js";const p={name:"system-module-crete"};function f(m,t,d,i,l,u){const e=n("form-data");return a(),r(e,{chip:"type",subtitle:"slug"},{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const c=s(p,[["render",f]]);export{c as default};

@@ -1,0 +1,1 @@
+import{_ as n,c as s,w as o,r as e,o as a}from"./app-CRJnygw4.js";const f={name:"infrastructure-record-note-data"};function p(d,t,i,m,l,u){const r=e("form-data");return a(),s(r,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=n(f,[["render",p]]);export{c as default};

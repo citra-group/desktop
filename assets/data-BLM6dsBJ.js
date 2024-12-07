@@ -1,0 +1,1 @@
+import{_ as r,c as s,w as o,r as a,o as e}from"./app-CRJnygw4.js";const f={name:"infrastructure-document-data"};function p(d,t,m,i,u,l){const n=a("form-data");return e(),s(n,null,{forminfo:o(()=>t[0]||(t[0]=[])),helpdesk:o(()=>t[1]||(t[1]=[])),utility:o(()=>t[2]||(t[2]=[])),_:1})}const c=r(f,[["render",p]]);export{c as default};

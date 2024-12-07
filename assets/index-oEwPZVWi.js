@@ -1,1 +1,0 @@
-import{_ as a,c as o,r as n,o as t}from"./app-ClLjlzvu.js";const c={name:"coperative-payment"};function p(r,s,_,m,d,i){const e=n("page-crud");return t(),o(e,{"page-name":"coperative-payment","page-key":"payment"})}const u=a(c,[["render",p]]);export{u as default};
