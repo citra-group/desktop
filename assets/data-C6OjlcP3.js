@@ -1,0 +1,1 @@
+import{_ as e,c as n,w as o,r as s,o as a}from"./app-XJTkUo0w.js";const f={name:"reference-district-data"};function d(p,t,i,m,l,_){const r=s("form-data");return a(),n(r,null,{feed:o(()=>t[0]||(t[0]=[])),info:o(()=>t[1]||(t[1]=[])),filter:o(()=>t[2]||(t[2]=[])),_:1})}const u=e(f,[["render",d]]);export{u as default};

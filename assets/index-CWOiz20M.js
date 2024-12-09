@@ -1,1 +1,0 @@
-import{_ as s,c as n,r as o,o as r}from"./app-CRJnygw4.js";const c={name:"reference-submission"};function a(t,p,_,i,m,u){const e=o("page-crud");return r(),n(e,{"page-name":"reference-submission","page-key":"submission"})}const d=s(c,[["render",a]]);export{d as default};

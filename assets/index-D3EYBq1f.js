@@ -1,1 +1,0 @@
-import{_ as a,c as n,w as r,r as t,o as s}from"./app-CRJnygw4.js";const c={name:"reference-dashboard"};function p(_,e,d,f,m,i){const o=t("page-home");return s(),n(o,{"page-name":"reference-dashboard"},{default:r(()=>e[0]||(e[0]=[])),_:1})}const u=a(c,[["render",p]]);export{u as default};

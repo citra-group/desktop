@@ -1,1 +1,0 @@
-import{_ as a,c as o,r as n,o as t}from"./app-CRJnygw4.js";const c={name:"mycoperative-payment"};function p(r,s,m,_,d,i){const e=n("page-crud");return t(),o(e,{"page-name":"mycoperative-payment","page-key":"payment"})}const u=a(c,[["render",p]]);export{u as default};

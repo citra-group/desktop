@@ -1,0 +1,1 @@
+import{_ as o,c as a,r as n,o as t}from"./app-XJTkUo0w.js";const c={name:"coperative-paymentmode"};function p(r,s,m,_,d,i){const e=n("page-crud");return t(),a(e,{"page-name":"coperative-paymentmode","page-key":"paymentmode"})}const u=o(c,[["render",p]]);export{u as default};

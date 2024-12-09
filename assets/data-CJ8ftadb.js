@@ -1,1 +1,0 @@
-import{_ as e,c as n,w as t,r as a,o as s}from"./app-CRJnygw4.js";const f={name:"coperative-yearbook-data"};function p(d,o,i,m,l,_){const r=a("form-data");return s(),n(r,null,{feed:t(()=>o[0]||(o[0]=[])),info:t(()=>o[1]||(o[1]=[])),filter:t(()=>o[2]||(o[2]=[])),_:1})}const c=e(f,[["render",p]]);export{c as default};
