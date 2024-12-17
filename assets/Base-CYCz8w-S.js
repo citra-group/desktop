@@ -1,0 +1,1 @@
+import{_ as o,c as a,r as t,o as s}from"./app-rj50VoVz.js";const r={name:"coperative-base"};function c(n,p,_,m,i,d){const e=t("page-base");return s(),a(e,{"module-name":"coperative","module-key":"coperative","module-type":"administrator"})}const u=o(r,[["render",c]]);export{u as default};

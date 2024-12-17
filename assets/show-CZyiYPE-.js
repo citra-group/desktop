@@ -1,0 +1,1 @@
+import{_ as o,c as t,w as r,r as s,o as a,a as c,n}from"./app-rj50VoVz.js";const _={name:"infrastructure-assign-show",data(){return{}},methods:{}};function d(p,f,m,i,u,h){const e=s("form-create");return a(),t(e,{"with-helpdesk":""},{default:r(({combos:{},record:l,store:w})=>[c(n)]),_:1})}const $=o(_,[["render",d]]);export{$ as default};

@@ -1,0 +1,1 @@
+import{_ as o,c as t,r as c,o as n}from"./app-rj50VoVz.js";const a={name:"human-customertype"};function r(s,p,m,_,u,d){const e=c("page-crud");return n(),t(e,{"page-name":"human-customertype","page-key":"customertype"})}const i=o(a,[["render",r]]);export{i as default};

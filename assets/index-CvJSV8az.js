@@ -1,0 +1,1 @@
+import{_ as n,c as a,r,o}from"./app-rj50VoVz.js";const t={name:"human-partner"};function c(p,s,_,m,u,d){const e=r("page-crud");return o(),a(e,{"page-name":"human-partner","page-key":"partner"})}const i=n(t,[["render",c]]);export{i as default};
